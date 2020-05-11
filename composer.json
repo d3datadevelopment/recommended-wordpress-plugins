@@ -1,0 +1,52 @@
+{
+  "name": "d3/recommended-wordpress-plugins-metapackage",
+  "description": "our recommended modules for the WordPress CMS",
+  "type": "metapackage",
+  "keywords": [
+    "wordpress",
+    "plugins",
+    "CMS",
+    "d3",
+    "recommended"
+  ],
+  "authors": [
+    {
+      "name": "D3 Data Development (Inh. Thomas Dartsch)",
+      "email": "info@shopmodule.com",
+      "homepage": "http://www.d3data.de",
+      "role": "Owner"
+    }
+  ],
+  "support": {
+    "email": "support@shopmodule.com"
+  },
+  "homepage": "https://www.oxidmodule.com/",
+  "license": [
+    "CC0-1.0"
+  ],
+  "require": {
+    "roots/wordpress": "*",
+    "wpackagist-plugin/backwpup": "*",
+    "wpackagist-plugin/disable-json-api": "*",
+    "wpackagist-plugin/two-factor": "*",
+    "wpackagist-plugin/user-role-editor": "*",
+    "wp-cli/wp-cli-bundle": "*"
+  },
+  "require-dev": {
+  },
+  "suggest": {
+    "roots/bedrock": "Ein gut gepflegtes Framework für eine technisch moderne und sichere Installation",
+    "wpackagist-plugin/antispam-bee": 'Sag "Auf Wiedersehen" zu Kommentar-Spam auf deiner WordPress-Installation. Antispam Bee blockiert Spam-Kommentare und -Trackbacks effektiv und das ganz ohne Captchas oder personenbezogene Daten an die Services Dritter zu versenden. Es ist kosten- wie werbefrei und 100% konform mit der Datenschutzgrundverordnung (DSGVO).',
+    "wpackagist-plugin/taxonomy-terms-order": "Search OXID admin globally for products, categories, clients, etc.",
+    "wpackagist-plugin/contact-form-7": "contact form generator",
+    "wpackagist-plugin/loco-translate": "easy translation tool",
+    "wpackagist-plugin/unfiltered-mu": "Unfiltered MU gives Administrators and Editors the unfiltered_html capability. This prevents WordPress MU/WordPress 3.0 multisite from stripping <iframe>, <embed>, etc. from these users‘ posts. Authors and Contributors do not get this capability for security reasons.",
+    "wpackagist-plugin/wp-sentry-integration": "This plugin can report PHP errors (optionally) and JavaScript errors (optionally) to Sentry and integrates with its release tracking.",
+    "wpackagist-plugin/shapepress-dsgvo": "DSGVO plugin",
+    "wpackagist-plugin/wp-updates-notifier": "notifies in case of available update",
+    "wpackagist-plugin/w3-total-cache": "cache plugin",
+    "koodimonni-language/de_de": "Full Wordpress translation (including themes and core plugins) for German - de_de",
+    "bjornjohansen/wplang": "Composer plugin to download translation files from wordpress.org",
+    "wpackagist-plugin/better-search-replace": "search and replace in whole database",
+  }
+}
