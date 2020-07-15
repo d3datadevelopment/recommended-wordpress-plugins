@@ -36,7 +36,7 @@
   },
   "suggest": {
     "roots/bedrock": "Ein gut gepflegtes Framework für eine technisch moderne und sichere Installation",
-    "wpackagist-plugin/antispam-bee": 'Sag "Auf Wiedersehen" zu Kommentar-Spam auf deiner WordPress-Installation. Antispam Bee blockiert Spam-Kommentare und -Trackbacks effektiv und das ganz ohne Captchas oder personenbezogene Daten an die Services Dritter zu versenden. Es ist kosten- wie werbefrei und 100% konform mit der Datenschutzgrundverordnung (DSGVO).',
+    "wpackagist-plugin/antispam-bee": "Sag 'Auf Wiedersehen' zu Kommentar-Spam auf deiner WordPress-Installation. Antispam Bee blockiert Spam-Kommentare und -Trackbacks effektiv und das ganz ohne Captchas oder personenbezogene Daten an die Services Dritter zu versenden. Es ist kosten- wie werbefrei und 100% konform mit der Datenschutzgrundverordnung (DSGVO).",
     "wpackagist-plugin/taxonomy-terms-order": "Search OXID admin globally for products, categories, clients, etc.",
     "wpackagist-plugin/contact-form-7": "contact form generator",
     "wpackagist-plugin/loco-translate": "easy translation tool",
