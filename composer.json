@@ -47,6 +47,6 @@
     "wpackagist-plugin/w3-total-cache": "cache plugin",
     "koodimonni-language/de_de": "Full Wordpress translation (including themes and core plugins) for German - de_de",
     "bjornjohansen/wplang": "Composer plugin to download translation files from wordpress.org",
-    "wpackagist-plugin/better-search-replace": "search and replace in whole database",
+    "wpackagist-plugin/better-search-replace": "search and replace in whole database"
   }
 }
